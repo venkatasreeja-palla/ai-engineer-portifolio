@@ -7,6 +7,7 @@ This is a beginner-friendly Python project that calculates student marks, total 
 Subjects
 
 - Telugu
+- Hindi
 - English
 - Maths
 - Science
